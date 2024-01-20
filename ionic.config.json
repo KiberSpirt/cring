@@ -1,0 +1,7 @@
+{
+  "name": "cring",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
